@@ -8,5 +8,6 @@ public class HelloController {
         System.out.println("hot_fix修复数据4");
         System.out.println("冲突数据");
         System.out.println("冲突数据2");
+        System.out.println("远程库数据更新");
     }
 }
